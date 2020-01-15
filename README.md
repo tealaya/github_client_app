@@ -1,16 +1,8 @@
-# github_client_app
+# 说明
+本项目克隆自：https://github.com/wendux/flutter_in_action_source_code/tree/master/github_client_app。
 
-A Github client APP built with Flutter
+它是书籍《Flutter实战》(https://book.flutterchina.club/chapter15/intro.html)随书源码的一部分。
 
-## Getting Started
+这部分是，第十五章：一个完整的Flutter应用  完整的源码。
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+本项目除了依赖包的版本号之外无任何修改。（ps：修改依赖包版本号是因为有些包太老，项目跑不起来）
